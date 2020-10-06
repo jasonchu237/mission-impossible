@@ -9,12 +9,12 @@
  */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
-        ArrayList<Integer> result = new ArrayList<Integer>();
+        List<Integer> result = new ArrayList<Integer>();
         traverse(root, result);
         return result;
     }
     
-    private void traverse(TreeNode root, ArrayList<Integer> result) {
+    private void traverse(TreeNode root, List<Integer> result) {
     
         if (root == null) {
             return;
