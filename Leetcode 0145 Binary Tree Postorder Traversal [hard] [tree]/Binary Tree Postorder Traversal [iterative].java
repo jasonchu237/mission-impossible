@@ -39,3 +39,21 @@ class Solution {
         return postorder;
     }
 }
+
+/**
+ * Idea:
+ * the result of reverse_postorder traversal of a binary tree would be the reverse of postorder traversal of a binary tree.
+ * 
+ * postorder(root):
+ *  if root == null: return;
+ *  postorder(root.left);
+ *  postorder(root.right);
+ *  print(root-val);
+ * 
+ * 
+ * rev_postorder(root):
+ *  if root == null: return;
+ *  print(root-val);
+ *  rev_postorder(root.right);
+ *  rev_postorder(root.left);
+ */
