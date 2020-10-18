@@ -36,3 +36,4 @@ Lintcode 0596 Minimum Subtree
 
 # Week 02:  10/17/2020 ~ 10/23/2020
 Leetcode 0297 Serialize and Deserialize Binary Tree [hard] [tree]  
+Leetcode 0449 Serialize and Deserialize Binary Search Tree [medium] [tree]  
