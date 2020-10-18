@@ -2,7 +2,7 @@
 
 # Practice algorithm coding problems
 
-# Week 01: ~ 10/16/2020
+# Week 01:  ~ 10/16/2020
 
 Leetcode 0094 Binary Tree Inorder Traversal [medium] [tree]  
 Leetcode 0098 Validate Binary Search Tree [medium] [tree]  
@@ -33,3 +33,6 @@ Leetcode 1120 Maximum Average Subtree [medium] [tree]
 Leetcode 1469 Find All The Lonely Nodes [easy] [tree]  
 
 Lintcode 0596 Minimum Subtree  
+
+# Week 02:  10/17/2020 ~ 10/23/2020
+Leetcode 0297 Serialize and Deserialize Binary Tree [hard] [tree]  
