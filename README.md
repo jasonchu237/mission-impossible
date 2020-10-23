@@ -55,3 +55,4 @@ Leetcode 1299 Replace Elements with Greatest Element on Right Side [easy] [array
 Leetcode 0283 Move Zeroes [easy] [array]  
 Leetcode 0905 Sort Array By Parity [easy] [array]  
 Leetcode 1051 Height Checker [easy] [array]  
+Leetcode 0414 Third Maximum Number [easy] [array]  
