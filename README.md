@@ -56,3 +56,6 @@ Leetcode 0283 Move Zeroes [easy] [array]
 Leetcode 0905 Sort Array By Parity [easy] [array]  
 Leetcode 1051 Height Checker [easy] [array]  
 Leetcode 0414 Third Maximum Number [easy] [array]  
+
+# Week 03:  10/24/2020 ~ 10/30/2020  
+Leetcode 0487 Max Consecutive Ones II [medium] [array]  
