@@ -60,3 +60,4 @@ Leetcode 0414 Third Maximum Number [easy] [array]
 # Week 03:  10/24/2020 ~ 10/30/2020  
 Leetcode 0487 Max Consecutive Ones II [medium] [array]  
 Leetcode 0448 Find All Numbers Disappeared in an Array [easy] [array]  
+Leetcode 0559 Maximum Depth of N-ary Tree [easy] [tree]  
