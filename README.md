@@ -67,3 +67,6 @@ Leetcode 0993 Cousins in Binary Tree [easy] [tree]
 Leetcode 0622 Design Circular Queue [medium] [design]  
 Leetcode 0346 Moving Average from Data Stream [easy] [design]  
 Leetcode 0532 K-diff Pairs in an Array [medium] [array]  
+
+# Week 04: 10/31/2020 ~ 11/06/2020  
+Leetcode 1283 Find the Smallest Divisor Given a Threshold [medium] [array]   
