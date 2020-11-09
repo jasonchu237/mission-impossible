@@ -70,3 +70,7 @@ Leetcode 0532 K-diff Pairs in an Array [medium] [array]
 
 # Week 04: 10/31/2020 ~ 11/06/2020  
 Leetcode 1283 Find the Smallest Divisor Given a Threshold [medium] [array]   
+
+# Week 05: 11/07/2020 ~ 11/13/2020  
+Leetcode 0039 Combination Sum [medium] [array]  
+
