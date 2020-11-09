@@ -8,7 +8,7 @@ Leetcode 0094 Binary Tree Inorder Traversal [medium] [tree]
 Leetcode 0098 Validate Binary Search Tree [medium] [tree]  
 Leetcode 0100 Same Tree [easy] [tree]  
 Leetcode 0101 Symmetric Tree [easy] [tree]  
-Leetcode 0102 Binary Tree Level Order Traversal [medium] [tree]  
+Leetcode 0102 Binary Tree Level Order Traversal [medium] [tree]    
 Leetcode 0104 Maximum Depth of Binary Tree [easy] [tree]  
 Leetcode 0105 Construct Binary Tree from Preorder and Inorder Traversal [medium] [tree]  
 Leetcode 0106 Construct Binary Tree from Inorder and Postorder Traversal [medium] [tree]  
@@ -34,7 +34,7 @@ Leetcode 1469 Find All The Lonely Nodes [easy] [tree]
 
 Lintcode 0596 Minimum Subtree  
 
-# Week 02:  10/17/2020 ~ 10/23/2020
+# Week 02:  10/17/2020 ~ 10/23/2020  
 Leetcode 0297 Serialize and Deserialize Binary Tree [hard] [tree]  
 Leetcode 0449 Serialize and Deserialize Binary Search Tree [medium] [tree]  
 Leetcode 0485 Max Consecutive Ones [easy] [array]  
@@ -73,4 +73,5 @@ Leetcode 1283 Find the Smallest Divisor Given a Threshold [medium] [array]
 
 # Week 05: 11/07/2020 ~ 11/13/2020  
 Leetcode 0039 Combination Sum [medium] [array]  
+Leetcode 0040 Combination Sum II [medium] [array]   
 
