@@ -74,5 +74,7 @@ Leetcode 1283 Find the Smallest Divisor Given a Threshold [medium] [array]
 # Week 05: 11/07/2020 ~ 11/13/2020  
 Leetcode 0039 Combination Sum [medium] [array]  
 Leetcode 0040 Combination Sum II [medium] [array]  
-Leetcode 0078 Subsets [medium] [array]   
+Leetcode 0078 Subsets [medium] [array]  
+Leetcode 0090 Subsets II [medium] [array]  
+
 
