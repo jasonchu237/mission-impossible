@@ -82,4 +82,7 @@ Leetcode 0047 Permutations II [medium] [array]
 Leetcode 0051 N-Queens [hard] [array]  
 Leetcode 0052 N-Queens II [hard] [array]  
 
+# Week 05: 11/14/2020 ~ 11/20/2020  
+Leetcode 0127 Word Ladder [medium] [array]  
+
 
