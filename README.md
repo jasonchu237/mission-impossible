@@ -84,5 +84,6 @@ Leetcode 0052 N-Queens II [hard] [array]
 
 # Week 05: 11/14/2020 ~ 11/20/2020  
 Leetcode 0127 Word Ladder [medium] [array]  
+Leetcode 0126 Word Ladder II [hard] [array]  
 
 
