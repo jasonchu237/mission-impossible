@@ -88,4 +88,5 @@ Leetcode 0126 Word Ladder II [hard] [array]
 Leetcode 0206 Reverse Linked List [easy] [linedlist]  
 
 # Week 06: 11/30/2020 ~ 12/06/2020  
-Lintcode 0009 Fizz Buzz [easy] [array]
+Lintcode 0009 Fizz Buzz [easy] [array]  
+Lintcode 0366 Fibonacci [naive] [array]  
